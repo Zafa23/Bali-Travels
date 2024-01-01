@@ -1,0 +1,195 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.reservation-1TT {
+  width: 100%;
+  height: 72rem;
+  position: relative;
+  overflow: hidden;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg2-bg.png');
+  background-color: rgba(42, 38, 61, 0.8199999928);
+}
+.reservation-1TT .auto-group-bbnj-wru {
+  width: 70.5rem;
+  height: 8.5rem;
+  position: absolute;
+  left: 5.6rem;
+  top: 5.8rem;
+  display: flex;
+  align-items: center;
+}
+.reservation-1TT .auto-group-bbnj-wru .back-GuB {
+  margin: 0rem 43.8rem 4.1rem 0rem;
+  width: 2.4rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reservation-1TT .auto-group-bbnj-wru .reservation-bRf {
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.755;
+  color: #fcb371;
+  font-family: Pacifico, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-1TT .input-name-viq {
+  box-sizing: border-box;
+  padding: 1.5rem 1.6rem;
+  width: 38.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 20.9rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a9a9a9;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.reservation-1TT .input-email-MZF {
+  box-sizing: border-box;
+  padding: 1.5rem 1.6rem;
+  width: 38.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 44.95rem;
+  top: 27.1rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a9a9a9;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.reservation-1TT .auto-group-hxnb-byP {
+  width: 38.2rem;
+  height: 4.6rem;
+  position: absolute;
+  left: 44.95rem;
+  top: 33.3rem;
+  display: flex;
+  align-items: center;
+}
+.reservation-1TT .auto-group-hxnb-byP .input-phone-KeV {
+  margin-right: 1.6rem;
+  box-sizing: border-box;
+  padding: 1.5rem 1.6rem;
+  width: 17.7rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a9a9a9;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.reservation-1TT .auto-group-hxnb-byP .input-nationality-Mr5 {
+  box-sizing: border-box;
+  padding: 1.5rem 1.6rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+  flex-shrink: 0;
+}
+.reservation-1TT .auto-group-hxnb-byP .input-nationality-Mr5 .select-your-nationality-JFX {
+  margin-right: 3.2rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a9a9a9;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.reservation-1TT .auto-group-hxnb-byP .input-nationality-Mr5 .polygon-1-1fj {
+  margin-bottom: 0.2rem;
+  width: 1.2rem;
+  height: 1.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.reservation-1TT .input-explain-trip-Jeq {
+  box-sizing: border-box;
+  padding: 5rem 1.6rem;
+  width: 38.2rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 44.95rem;
+  top: 39.5rem;
+  overflow: hidden;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #a9a9a9;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 0.8rem;
+}
+.reservation-1TT .button-submit-kmj {
+  width: 38.3rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 44.9rem;
+  top: 54.3rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.755;
+  color: #ffffff;
+  font-family: Pacifico, 'Source Sans Pro';
+  white-space: nowrap;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #fcb371;
+  border-radius: 0.8rem;
+}

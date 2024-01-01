@@ -1,0 +1,60 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 128rem;
+}.readmore-ENq {
+  box-sizing: border-box;
+  padding: 8rem 5.6rem 24.2rem 5.6rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg1-bg.png');
+  background-color: rgba(42, 38, 61, 0.8199999928);
+}
+.readmore-ENq .back-jKb {
+  margin: 0rem 114.4rem 9.1rem 0rem;
+  width: 2.4rem;
+  height: 0rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.readmore-ENq .about-us-TFb {
+  margin: 0rem 0.1rem 4.5rem 0rem;
+  text-align: center;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.755;
+  color: #fcb371;
+  font-family: Pacifico, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.readmore-ENq .more-than-10-years-arkademy-travel-services-has-grow-at-a-steady-pace-and-become-one-of-indonesias-leading-travel-agent-offering-a-complete-travel-solution-for-both-leisure-and-business-travels-the-company-has-over-500-staff-within-24-branches-across-the-country-m1P {
+  max-width: 76.9rem;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: SF Pro Display, 'Source Sans Pro';
+  flex-shrink: 0;
+}
